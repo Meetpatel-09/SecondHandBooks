@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category">
+        <item>Select Category</item>
+        <item>Anthology</item>
+        <item>Autobiography</item>
+        <item>Biography</item>
+        <item>Business/economics</item>
+        <item>Children</item>
+        <item>Cookbook</item>
+        <item>Comic book</item>
+        <item>Dictionary</item>
+        <item>Encyclopedia</item>
+        <item>History</item>
+        <item>Journal</item>
+        <item>Prayer</item>
+        <item>Textbook</item>
+        <item>Science</item>
+        <item>Sports</item>
+        <item>Story</item>
+    </string-array>
+</resources>

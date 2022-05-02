@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="50dp"
+    android:padding="2dp" >
+
+    <RelativeLayout
+        android:id="@+id/layout_for_sender_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:background="@drawable/sender_chat"
+        tools:ignore="UselessParent">
+
+        <TextView
+            android:id="@+id/sender_message_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sender_message_displays_here"
+            android:textSize="18sp"
+            android:textColor="@color/black"
+            android:paddingEnd="10dp"
+            android:paddingStart="7dp"
+            android:paddingBottom="7dp"
+            android:paddingTop="7dp"
+            />
+
+    </RelativeLayout>
+
+</RelativeLayout>

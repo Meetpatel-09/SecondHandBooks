@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289922284758",
+    "project_id": "final-secondhand-books",
+    "storage_bucket": "final-secondhand-books.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289922284758:android:b6f1cf1666ba28c9479d77",
+        "android_client_info": {
+          "package_name": "com.example.secondhandbooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289922284758-0ulfufmnf1rg85hpsp4iellfo8et8b39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADLxDdcuZVK7Fj-jFx-UOTmE4UFxHdHsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289922284758-0ulfufmnf1rg85hpsp4iellfo8et8b39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

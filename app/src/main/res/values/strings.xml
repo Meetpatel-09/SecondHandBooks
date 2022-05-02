@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Second Hand Books</string>
+
+    <!-- Strings Used in Multiple Pages -->
+    <string name="log_out">Log Out</string>
+    <!--    <string name="voter_id">Voter ID</string>-->
+    <string name="mobile_number">Mobile Number</string>
+
+    <!-- Strings Used in Start Page -->
+    <string name="welcome">Welcome</string>
+    <string name="about_application"> Second-hand  book  shopping  has  been  a  current  trend  in  today’s  stream.  The  process  of  selling    and    buying the second-hand    book    is    somehow  lead  to  time  and  energy  wastage.  The  purpose  of  this  paper  is  to  give  solution  through  Online    Second-hand    Bookshop    System.    The    customer   segment   includes   buyer,   seller.
+    </string>
+
+    <!-- Strings Used in Authentication -->
+    <string name="second_hand_books_selling">Second Hand Books Selling</string>
+    <string name="books_quote">Good friends, good books, and a sleepy conscience: this is the ideal life.</string>
+    <string name="register">Register</string>
+    <string name="login">Log In</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_id">Email ID</string>
+    <string name="password">Password</string>
+    <string name="c_password">Confirm Password</string>
+    <string name="show">Show</string>
+    <string name="login_link">Already Registered? Click here to Log In.</string>
+    <string name="registered_link">Not yet Registered? Click here to Register.</string>
+    <string name="complete_profile">Complete Your Profile</string>
+    <string name="submit">Submit</string>
+    <string name="profile_picture">Add Profile Picture</string>
+    <string name="user_registration">User Registration</string>
+    <string name="user_login">User Login</string>
+    <string name="admin_login">Admin Login</string>
+
+
+    <!-- Strings Used in Admin Home Page -->
+    <string name="manage_users">Manage Users</string>
+    <string name="manage_books">Manage Books</string>
+    <string name="manage_report">Manage Report</string>
+    <string name="delete_notice">Delete Notice</string>
+    <string name="add_category">Add Category</string>
+    <string name="view_result">View Result</string>
+    <string name="delete_election">Delete Election</string>
+    <string name="remove_category">Remove Category</string>
+
+    <!-- Strings Used in bottom navigation -->
+    <string name="home">Home</string>
+    <string name="category">Category</string>
+    <string name="notice">Notice</string>
+    <string name="upload">Upload</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+
+    <!-- Strings Used in profile fragment -->
+    <string name="hide">Hide</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="log_out_button">Log Out Button</string>
+    <string name="bookmarked">Bookmarked</string>
+    <string name="uploaded">Uploaded</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="change_photo">Change Photo</string>
+    <string name="close">Close</string>
+
+    <!-- Strings Used in Page -->
+
+    <!-- Strings Used in User Notice Fragment -->
+    <string name="no_new_notice">No New Notice</string>
+
+    <!-- Strings Used in  Page -->
+
+    <!-- Strings Used in  Page -->
+
+    <!-- Strings Used in User  Page -->
+
+    <!-- Strings Used in    Page -->
+
+    <!-- Strings Used in User  Fragment -->
+
+
+    <string name="upload_book">Upload Book</string>
+    <string name="book_title">Book Title</string>
+    <string name="select_book_image">Select Book Image</string>
+    <string name="publication_year">Publication Year</string>
+    <string name="language">Language</string>
+    <string name="author_name">Author Name</string>
+    <string name="pages">Pages</string>
+    <string name="ISBN">ISBN</string>
+    <string name="price">Price</string>
+    <string name="book_cover_image">Book Cover Image</string>
+    <string name="new_available">New Available</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chat">Chat</string>
+    <string name="make_offer">Make Offer</string>
+    <string name="not_given_inr_on_app">not given INR (on app)</string>
+    <string name="book_details">Book Details:</string>
+    <string name="no_description_available">No Description available</string>
+    <string name="seller_details">Seller Details:</string>
+    <string name="add_to_watch_list">Add to Watch List</string>
+    <string name="remove_from_watch_list">Remove from Watch List</string>
+    <string name="category_name">Category Name</string>
+    <string name="remove">Remove</string>
+    <string name="user_name">User Name</string>
+    <string name="chat_icon">chat icon</string>
+    <string name="type_your_message_here">Type your message here</string>
+    <string name="sender_message_displays_here">Sender Message displays here</string>
+    <string name="receiver_message_displays_here">Receiver Message displays here</string>
+    <string name="remove_book">Remove Book</string>
+
+
+</resources>
