@@ -2,7 +2,6 @@ package com.example.secondhandbooks.user;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
-import androidx.fragment.app.FragmentTransaction;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
@@ -12,7 +11,6 @@ import com.example.secondhandbooks.R;
 import com.example.secondhandbooks.user.ui.category.CategoryFragment;
 import com.example.secondhandbooks.user.ui.chat.ChatFragment;
 import com.example.secondhandbooks.user.ui.home.HomeFragment;
-import com.example.secondhandbooks.user.ui.notification.NotificationFragment;
 import com.example.secondhandbooks.user.ui.profile.ProfileFragment;
 import com.example.secondhandbooks.user.ui.upload.UploadActivity;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
